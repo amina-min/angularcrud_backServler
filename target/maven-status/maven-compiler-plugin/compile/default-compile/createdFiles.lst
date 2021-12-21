@@ -1,0 +1,7 @@
+com\example\angular_studentmanagement\Student.class
+com\example\angular_studentmanagement\ApiResponse.class
+com\example\angular_studentmanagement\CorsFilter.class
+com\example\angular_studentmanagement\StudentController.class
+com\example\angular_studentmanagement\ShowStudentController.class
+com\example\angular_studentmanagement\DBConnection.class
+com\example\angular_studentmanagement\Status.class
